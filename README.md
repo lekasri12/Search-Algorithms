@@ -1,4 +1,4 @@
-# Linear Search and Binary search
+# EXP-07-Linear Search and Binary search
 ## Date :
 ## Aim:
 To write a program to perform linear search and binary search using python programming.
